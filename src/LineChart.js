@@ -1,3 +1,8 @@
+/**
+* LineChart.js class imports line-chart.css file and the d3.js libraries to generate the line chart using svg component.
+* version- 1.0
+* author- V.Vishnu Priya(12-07-2020)
+**/
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import * as d3 from 'd3';
